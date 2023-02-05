@@ -12,8 +12,6 @@ The data structures that have been implemented are:
 
 •	Hash Table (chaining) 
 
-The files containing the implementation of the AVL Tree are not working as intended. 
-
 Sources:
 
 •	https://www.geeksforgeeks.org/binary-search/
